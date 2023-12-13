@@ -44,3 +44,6 @@ Die Zahlen sollen dann nach Größe sortiert werden und ausgegeben werden.
 ### Aufgabe 10
 Erstelle ein Programm, in dem 10 Erinnerungen gespeichert werden können. <br>
 Verwende dabei ein Array.
+<p align="left">
+  <img src="Aufgabe10.png" width="600px" alt="Zustandsdiagramm">
+</p>
