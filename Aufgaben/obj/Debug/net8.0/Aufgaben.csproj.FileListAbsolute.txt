@@ -1,0 +1,14 @@
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\bin\Debug\net8.0\Aufgaben.exe
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\bin\Debug\net8.0\Aufgaben.deps.json
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\bin\Debug\net8.0\Aufgaben.runtimeconfig.json
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\bin\Debug\net8.0\Aufgaben.dll
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\bin\Debug\net8.0\Aufgaben.pdb
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\Aufgaben.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\Aufgaben.AssemblyInfoInputs.cache
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\Aufgaben.AssemblyInfo.cs
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\Aufgaben.csproj.CoreCompileInputs.cache
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\Aufgaben.dll
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\refint\Aufgaben.dll
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\Aufgaben.pdb
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\Aufgaben.genruntimeconfig.cache
+C:\Users\HH-SoSo-2\Desktop\MyFolder\Basics\Aufgaben\Aufgaben\obj\Debug\net8.0\ref\Aufgaben.dll
